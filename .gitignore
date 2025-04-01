@@ -1,7 +1,6 @@
 venv
 env
 trained_model
-*.txt
 chatlogs
 generated
 models
